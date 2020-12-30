@@ -1,2 +1,2 @@
 git add some message.
-git commit m1
+git bug is dealed;
